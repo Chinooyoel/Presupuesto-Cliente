@@ -1,8 +1,8 @@
-# App Presupuestar
+# App Presupuestar :rocket:
 
-Esta App te permite controlar tus gastos e ingresos y clasificarlos para tener un perfecto control de tu saldo
+Esta App te permite controlar tus gastos e ingresos y clasificarlos para tener un perfecto control de tu saldo.
 
-Para ver la demo [Click aqui!](https://objective-leakey-560833.netlify.app/login):point_left:
+Para ver la demo [Click aqui!](https://objective-leakey-560833.netlify.app/):point_left:
 
 ## Construido con :hammer:
 - React
